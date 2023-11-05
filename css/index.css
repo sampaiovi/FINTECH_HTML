@@ -1,0 +1,21 @@
+.flex-center{
+    display: grid;
+    justify-content: center;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+}
+
+.font-title{
+    color: #10A139;
+}
+
+.test-container {
+    max-width: 700px ;
+}
+
+#img-logo-principal {
+    width: 100%;
+}
